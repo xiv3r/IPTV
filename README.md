@@ -10,10 +10,12 @@
 
 <image src="https://github.com/xiv3r/IPTV/blob/main/src/Screenshot_2024_0212_131231.png">
 
-- open the app and copy this link `https://iptv-org.github.io/iptv/index.m3u` and paste in the IPTV url .m3u.
+- open the app and copy this link
+```sh
+https://iptv-org.github.io/iptv/index.m3u
+```
+and paste in the IPTV url .m3u.
 
 <image src="https://github.com/xiv3r/IPTV/blob/main/src/Screenshot_2024_0212_132739.png">
-
-- and enjoy!!!
 
 <image src="https://github.com/xiv3r/IPTV/blob/main/src/Screenshot_20240212_132853.jpg">
